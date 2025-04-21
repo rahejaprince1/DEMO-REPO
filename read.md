@@ -10,3 +10,5 @@ You can make interesting things happen to a repository every time you push into 
 
 hy
 
+### SYNOPSIS
+git init [-q | --quiet] [--bare] [--template=<template-directory>] [--separate-git-dir <git-dir>] [--object-format=<format>] [--ref-format=<format>] [-b <branch-name> | --initial-branch=<branch-name>] [--shared[=<permissions>]] [<directory>]
